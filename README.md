@@ -1,4 +1,4 @@
-## Лабораторная работа 1
+![image](https://github.com/user-attachments/assets/68ec321c-f46a-4449-9075-12269ec91aa6)## Лабораторная работа 1
 
 После установки Linux Ubintu можно сразу приступать к выполнению задания.
 
@@ -47,4 +47,8 @@ bash script.bash x y z
 Для ознакомоения с базовыми командами терминала я воспользовался [этим сайтом](https://habr.com/ru/companies/ruvds/articles/326328/)
 <p>
   <img width='600px' height='350px' src='scr8.png'>
+</p>
+Теперь проверка:
+<p>
+  <img width='600px' height='350px' src='scr9.png'>
 </p>
