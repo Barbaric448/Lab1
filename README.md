@@ -44,11 +44,11 @@ bash script.bash x y z
 
 Для ознакомоения с базовыми командами терминала я воспользовался [этим сайтом](https://habr.com/ru/companies/ruvds/articles/326328/)
 <p>
-  <img width='800px' height='350px' src='scr8.png'>
+  <img width='850px' height='200px' src='scr8.png'>
 </p>
 Теперь проверка:
 <p>
-  <img width='800px' height='350px' src='scr9.png'>
+  <img width='850px' height='200px' src='scr9.png'>
 </p>
 Как видно, скрипт успешно справляется с любым кол-вом переданных аргуметов.
 
